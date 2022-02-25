@@ -1,0 +1,4 @@
+#Fri Feb 25 16:44:00 BDT 2022
+base.0=F\:\\Users\\Faizbe\\Desktop\\e-storebd\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
